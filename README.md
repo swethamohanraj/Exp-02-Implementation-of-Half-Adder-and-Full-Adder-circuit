@@ -71,7 +71,7 @@ endmodule
 
 
 ### TIMING DIAGRAM
-![timimgdia](https://user-images.githubusercontent.com/94228215/166900724-3915df36-5da0-44e7-bf11-57a9a3a87a7c.jpeg)
+![timimgdia](https://user-images.githubusercontent.com/94228215/166901030-18277d00-1bd3-4858-8e60-06acf0c8646d.jpeg)
 
 
 
@@ -93,8 +93,7 @@ endmodule
 
 
 ### Timing Diagram
-![timedia2](https://user-images.githubusercontent.com/94228215/166900780-18bbb14e-8590-4642-9ee4-ec9a495839db.jpeg)
-
+![image](https://user-images.githubusercontent.com/94228215/165554238-cdb76294-e878-4135-9100-b54d458610cf.png)
 
 
 
