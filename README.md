@@ -93,7 +93,8 @@ endmodule
 
 
 ### Timing Diagram
-![image](https://user-images.githubusercontent.com/94228215/165554238-cdb76294-e878-4135-9100-b54d458610cf.png)
+![timedia2](https://user-images.githubusercontent.com/94228215/166901229-a26b6fc2-98e7-4a52-9373-040c42376781.jpeg)
+
 
 
 
